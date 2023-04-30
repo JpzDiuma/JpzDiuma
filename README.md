@@ -1,8 +1,16 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Ola 👋, eu sou o JpzDiuma</h1>
+<h3 align="center">Trabalho para a Harry Community</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpzdiuma&label=Profile%20views&color=0e75b6&style=flat" alt="jpzdiuma" /> </p>
+
+- 🔭 I’m currently working on [phoenixV2](https://discord.gg/HXGgW888)
+
+- 📫 How to reach me **lothusrp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rodrigo.amaro.0701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo.amaro.0701" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jpzdiuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jpzdiuma" height="30" width="40" /></a>
 <a href="https://discord.gg/XQ93z6TH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XQ93z6TH" height="30" width="40" /></a>
 </p>
 
