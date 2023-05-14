@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 working in my authentication discord BOT<br>👯I'm working for Harry Community<br>🤝 helping Phoenix V2 project<br>
+🔭 working in my authentication discord BOT<br>👯I'm working for Harry Community<br>🤝 helping Phoenix V2 project<br>🖊️ Oficial Metralhas Community Designer <br>
 
 
 # 💻 Tech Stack:
